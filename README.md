@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![Bittervan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bittervan&count_private=true&theme=onedark&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
-![BitterVan's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bittervan&layout=compact&hide_border=true&langs_count=10)
+![BitterVan's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bittervan&exclude=bustub-private&layout=compact&hide_border=true&langs_count=10)
 
 <p align="left"> 
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
