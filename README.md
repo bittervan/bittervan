@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Xingkai Wang (王行楷). I am passionate about system optimization and security hardening, particularly through leveraging the capabilities of next-generation hardware and innovative microarchitectures.
+My name is Xingkai Wang (王行楷). I am deeply passionate about system optimization and security hardening, with a particular focus on leveraging the capabilities of next-generation hardware and innovative microarchitectures to address complex challenges in computing systems.
 
-I received my bachelor’s degree in Computer Science in June 2023. Currently, I am pursuing my master’s degree in Cyber Security at Zhejiang University.
+I received my bachelor’s degree in Computer Science in June 2023. Currently, I am pursuing my Ph.D. in Computer Science and Technology at Zhejiang University, where I continue to explore cutting-edge research in system security, performance optimization, and hardware-software co-design.
+
+My research interests lie at the intersection of computer architecture, cybersecurity, and system optimization. I aim to develop robust, efficient, and secure computing systems by integrating advanced hardware features with innovative software techniques.
 
 [![Bittervan's GitHub stats](https://github-readme-stats-bittervans-projects.vercel.app/api?username=bittervan&count_private=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
